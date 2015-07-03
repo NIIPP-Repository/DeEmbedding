@@ -1,0 +1,9 @@
+D:\GitHub\DeEmbedding\De-embedding\bin\Release\De-embedding.exe.config
+D:\GitHub\DeEmbedding\De-embedding\bin\Release\De-embedding.exe
+D:\GitHub\DeEmbedding\De-embedding\bin\Release\De-embedding.pdb
+D:\GitHub\DeEmbedding\De-embedding\obj\Release\De-embedding.csprojResolveAssemblyReference.cache
+D:\GitHub\DeEmbedding\De-embedding\obj\Release\De_embedding.FormMain.resources
+D:\GitHub\DeEmbedding\De-embedding\obj\Release\De_embedding.Properties.Resources.resources
+D:\GitHub\DeEmbedding\De-embedding\obj\Release\De-embedding.csproj.GenerateResource.Cache
+D:\GitHub\DeEmbedding\De-embedding\obj\Release\De-embedding.exe
+D:\GitHub\DeEmbedding\De-embedding\obj\Release\De-embedding.pdb
