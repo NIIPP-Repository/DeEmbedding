@@ -16,3 +16,6 @@ D:\GitHub\DeEmbedding\De-embedding\obj\Debug\De_embedding.Properties.Resources.r
 D:\GitHub\DeEmbedding\De-embedding\obj\Debug\De-embedding.csproj.GenerateResource.Cache
 D:\GitHub\DeEmbedding\De-embedding\bin\Debug\De-embedding.exe
 D:\GitHub\DeEmbedding\De-embedding\bin\Debug\De-embedding.pdb
+C:\Users\Руслан\Documents\GitHub\DeEmbedding\De-embedding\bin\Debug\De-embedding.exe.config
+C:\Users\Руслан\Documents\GitHub\DeEmbedding\De-embedding\obj\Debug\De-embedding.exe
+C:\Users\Руслан\Documents\GitHub\DeEmbedding\De-embedding\obj\Debug\De-embedding.pdb
